@@ -1,0 +1,22 @@
+h1{
+    font-family: roboto;
+}
+header{
+    display: flex;
+}
+.nav_links li{
+    display: inline-block;
+} 
+h1{
+    color: rgb(140, 82, 0); font-style: italic;
+} 
+body{
+    background-color: rgb(219, 201, 174);
+} 
+p{
+    color: rgb(60, 57, 57);
+}
+.nav_links li{ background-color: rgb(255, 255, 255); font-style: italic; font-size: 18px; font-family: roboto;
+}  
+.nav_links button{ color: rgb(140, 82, 0); width: 180px; height: 40px; font-family: roboto; border-radius: 8px; border-color: rgb(192, 110, 2);
+}
